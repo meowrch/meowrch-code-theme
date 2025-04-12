@@ -5,7 +5,7 @@
   "description": "An extension to adapt to the theme installed in meowrch",
   "repository": "https://github.com/meowrch/meowrch-code-theme",
   "publisher": "DIMFLIX-OFFICIAL",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.54.0"
   },
@@ -21,7 +21,7 @@
       {
         "label": "Meowrch Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/meowrch-theme.json"
+        "path": "./themes/theme.json"
       }
     ]
   },

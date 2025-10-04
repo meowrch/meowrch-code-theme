@@ -5,7 +5,7 @@
   "description": "An extension to adapt to the theme installed in meowrch",
   "repository": "https://github.com/meowrch/meowrch-code-theme",
   "publisher": "DIMFLIX-OFFICIAL",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.54.0"
   },
